@@ -1,0 +1,13 @@
+flask
+opencv-python
+numpy
+pytesseract
+pillow
+pandas
+scikit-learn
+pyotp
+bcrypt
+yagmail
+twilio
+reportlab
+qrcode
